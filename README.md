@@ -34,7 +34,7 @@
 | [FuzzyBrake-F1](https://github.com/yusufgurkan/FuzzyBrake-F1) | Formula 1 için bulanık mantık tabanlı çekiş ve fren destek sistemi |
 | [psikiyatri-sim](https://github.com/yusufgurkan/psikiyatri-sim) | Psikiyatri acil servisi için karar destek sistemi ve kesikli olay simülasyonu (takım projesi) |
 | [NetScan](https://github.com/yusufgurkan/NetScan) | Yerel ağ cihazlarını keşfeden, port tarayıp risk analizi yapan Python aracı |
-| [kampus-rehberi](https://github.com/yusufgurkan/kampus-rehberi) | React Native ile kampüs rehberi mobil uygulaması |
+
 
 ## Teknolojiler
 
